@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Amarillo principal tomado del diseño -->
+    <color name="primaryYellow">#F4C614</color>
+    <!-- Gris claro de fondo -->
+    <color name="lightGray">#ECECEC</color>
+    <!-- Gris del contenedor/área -->
+    <color name="midGray">#C6C4C5</color>
+    <!-- Texto oscuro estándar -->
+    <color name="textDark">#333333</color>
+    <!-- Morado de enlaces (aprox. del JPG; luego lo ajustamos si hace falta) -->
+    <color name="accentPurple">#201138</color>
+    <!-- Blanco para tarjetas -->
+    <color name="pureWhite">#FFFFFF</color>
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1090591462150",
+    "project_id": "kabodmuebles-6f365",
+    "storage_bucket": "kabodmuebles-6f365.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090591462150:android:d4b168805e977645c14487",
+        "android_client_info": {
+          "package_name": "com.kabodmuebles"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMBde8Y6HJqBtOHDoPc4JthRnpmIgVHdw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.KabodMuebles" parent="Theme.Material3.Light.NoActionBar">
+        <!-- Colores base de la app -->
+        <item name="colorPrimary">@color/primaryYellow</item>
+        <item name="colorSecondary">@color/accentPurple</item>
+        <item name="android:statusBarColor">@color/primaryYellow</item>
+        <item name="android:navigationBarColor">@color/primaryYellow</item>
+    </style>
+</resources>
+
+
+
